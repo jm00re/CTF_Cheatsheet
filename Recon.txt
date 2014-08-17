@@ -1,0 +1,53 @@
+2012
+
+Recon 1
+http://raidersec.blogspot.com/2012/09/csaw-ctf-quals-2012-recon-1-3-writeup.html
+* Jordan Wiens
+* Finds alias (psifertex)
+* Uses namechk.com to find all websites that have alias registered
+* Google discovers psifertex.com 
+* Used subbrute.py to bruteforce possible subdomains 
+* Finds key.psifertex.com 
+
+Recon 2
+http://raidersec.blogspot.com/2012/09/csaw-ctf-quals-2012-recon-1-3-writeup.html
+* Jeff Jarmoc
+* Twitter shows offenseindepth.com as his homepage
+* Used subbrute.py to bruteforce possible subdomains 
+* Finds finger.offenseindepth.com 
+* Used finger on finger.offenseindepth.com 
+
+http://h34dump.com/2012/10/csaw-2012-recon/
+* Other way to do this challenge
+* Page on csaw with pictures of judges
+* Downloaded picture of Jeff Jarmoc
+* Ran file on picture
+* Displayed finger://jjarmoc@finger.offenseindepth.com:79/
+* Finger that
+
+Recon 3
+http://raidersec.blogspot.com/2012/09/csaw-ctf-quals-2012-recon-1-3-writeup.html
+* Julian Cohen
+* Found alias (HockeyInJune)
+* Used namechk.com to find all websites that have alias registered 
+* Found account registered on reddit
+* Search each comment and pages linked in comments
+* Key in link to cockcab.com 
+
+Recon 4
+http://h34dump.com/2012/10/csaw-2012-recon/
+* Dan Guido
+* Found Dan Guido's reddit account
+* Found interview with dan guido on reddit
+* He comments the key
+
+Recon 5
+http://h34dump.com/2012/10/csaw-2012-recon/
+* Name Yoda used
+* Joined CSAW IRC 
+* Judges were admin in the IRC
+* ran /WHOIS yoda
+* Key was in whois info
+
+2013
+http://blog.dragonsector.pl/2013/09/csaw-ctf-quals-2013-recon-all.html
